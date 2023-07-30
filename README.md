@@ -16,7 +16,11 @@ This Bash script automates the process of grouping files based on their detected
 3. Make the script executable if necessary with the following command:
 
    ```bash
-   chmod +x group_files_by_language.sh
+   chmod +x Language_sep.sh
+4. You can run the script using the following command:
+
+     ```bash
+     bash Language_sep.sh
 
 ## Notes
 

@@ -24,5 +24,6 @@ This Bash script automates the process of grouping files based on their detected
 
 ## Notes
 
-1.The script relies on filenames to determine the language, so ensure that your filenames follow the pattern of having the language name followed by a dash and a sequence number (e.g., "english-1.txt").
-2.If you encounter any issues or errors while running the script, make sure to verify the path to the directory containing your files and that the filenames match the expected pattern.
+1. The script relies on filenames to determine the language, so ensure that your filenames follow the pattern of having the language name followed by a dash and a sequence number (e.g., "english-1.txt").
+2. If you encounter any issues or errors while running the script, make sure to verify the path to the directory containing your files and that the filenames match the expected pattern.
+   
